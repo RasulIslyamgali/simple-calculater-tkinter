@@ -1,6 +1,6 @@
-# simple-calculater-tkinter
+# simple-calculator-tkinter
 
-Create simple calculater with UI with python module tkinter
+Create simple calculator with UI with python module tkinter
 
 
 How launch this project:
